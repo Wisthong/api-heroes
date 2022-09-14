@@ -1,0 +1,16 @@
+{
+  "name": "api-heroes",
+  "version": "1.0.0",
+  "description": "Aprendiendo a crear apis con json-server",
+  "main": "server.js",
+  "author": {"name": "Wisthong David","email": "wisthongd@gmail.com"},
+
+  "scripts": {
+    "start": "node server.js"
+  },
+
+
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
